@@ -1,6 +1,6 @@
 # weather-umbrella
 
-> Never Forget Your Umbrella
+> Never Forget Your Umbrella by Soon Hong Ooi
 
 ## Build Setup
 
@@ -10,6 +10,9 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn dev
+
+# to run tests please run the following
+$ yarn test
 
 # build for production and launch server
 $ yarn build
