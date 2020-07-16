@@ -2,6 +2,9 @@
 
 > Never Forget Your Umbrella by Soon Hong Ooi
 
+# Deployment URL
+https://weather-umbrella.vercel.app/
+
 ## Build Setup
 
 ```bash
